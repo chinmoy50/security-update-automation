@@ -109,7 +109,7 @@ Follow these steps to configure and run the project.
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/security-update-automation.git
+https://github.com/chinmoy50/security-update-automation.git
 cd security-update-automation
 ```
 
