@@ -1,0 +1,65 @@
+# ===========================
+#  CORE CYBERSECURITY RSS
+# ===========================
+
+# The Hacker News
+http://thehackernews.com/feeds/posts/default
+
+# BleepingComputer – Full Feed
+https://www.bleepingcomputer.com/feed/
+
+# SecurityWeek – Full Feed
+http://feeds.feedburner.com/Securityweek
+
+# DarkReading – All Security News
+https://www.darkreading.com/rss.xml
+
+# Sophos News
+https://news.sophos.com/feed/
+
+# Rapid7 Blog (CVEs, Patch Tuesday, Research)
+https://blog.rapid7.com/rss/
+
+# KrebsOnSecurity
+https://krebsonsecurity.com/feed/
+
+# CISA Cybersecurity Advisories (CSA)
+https://www.cisa.gov/cybersecurity-advisories/all.xml
+
+
+# ===========================
+#  VENDOR / THREAT INTEL BLOGS
+# ===========================
+
+# Palo Alto Unit42
+https://unit42.paloaltonetworks.com/feed/
+
+# Cisco Talos Intelligence Blog
+https://blog.talosintelligence.com/feeds/posts/default
+
+# Trend Micro Research
+https://feeds.trendmicro.com/TrendMicroResearch
+
+
+# ===========================
+#  LINUX / OS SECURITY
+# ===========================
+
+# Ubuntu Security Notices
+https://usn.ubuntu.com/rss.xml
+
+# Red Hat Security Advisories (CVRF XML index)
+https://access.redhat.com/hydra/rest/securitydata/cvrf.xml
+
+
+# ===========================
+#  HTML-ONLY SOURCES (SCRAPER MODE)
+#  These do NOT have RSS, so we scrape links from the page
+# ===========================
+
+HTML:https://securityonline.info
+HTML:https://arcticwolf.com/resources/blog/
+HTML:https://bishopfox.com/blog
+HTML:https://gbhackers.com/
+HTML:https://thecyberexpress.com/
+HTML:https://github.com/advisories
