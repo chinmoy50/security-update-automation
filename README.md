@@ -1,3 +1,6 @@
+![Stars](https://img.shields.io/github/stars/chinmoy50/security-update-automation?style=social)
+![CI](https://github.com/chinmoy50/security-update-automation/actions/workflows/main.yml/badge.svg)
+
 <p align="center">
   <img src="./assets/logo.png" alt="Security Update Automation Logo" width="260"/>
 </p>
