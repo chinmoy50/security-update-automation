@@ -6,6 +6,7 @@
 
 <p align="center">
   Automated Security Advisory Generation Tool for SOC Teams
+  Python Security Automation - CVE Extraction, Vulnerabilities Feed Processor, Advisory Generator & Teams Alerts
 </p>
 
 <p align="center">
